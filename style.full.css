@@ -120,7 +120,7 @@ select {
 	background: url(https://abnormal.ws/static/styles/proton/images/abn_logo_big_15.png) center no-repeat;
 	top: -10px;
 	left: 0;
-	width: 1000px;
+	width: 1200px;
 	height: 260px;
 	margin: 0 auto;
 	display: block;
@@ -129,7 +129,7 @@ select {
 #logo a {
 	display: block;
 	margin-top: 70px;
-	width: 1000px;
+	width: 1200px;
 	height: 130px;
 }
 #logo a:hover {
@@ -139,12 +139,12 @@ select {
 }
 #wrapper {
 	margin: 0 auto;
-	width: 1000px;
+	width: 1200px;
 }
 #header {
 	margin: 0 auto;
 	position: relative;
-	width: 1000px;
+	width: 1200px;
 	height: 260px;
 	margin-bottom: 20px;
 }
@@ -162,7 +162,7 @@ select {
 	text-align: left;
 	border-top: 1px solid #363636;
 	color: #666;
-	width: 1000px;
+	width: 1200px;
 }
 table.table--no-border, table.table--no-border td {
 	border: 0;
@@ -457,7 +457,7 @@ a.alert-bar__link:hover {
 	line-height: 11px;
 	position: relative;
 	height: 30px;
-	*width: 135px;
+	width: 250px;
 	*top: -120px;
 	float: left;
 	padding: 10px;
@@ -537,13 +537,18 @@ a.alert-bar__link:hover {
 	font-weight: bold;
 	color: #aaa;
 }
+#userinfo_others {
+	position:absolute;
+	margin-top: 8px;
+	margin-left: 80px;
+}
 #userinfo_minor {
 	position: relative;
 	height: 30px;
 	/*width: 485px;*/
 	*top: -120px;
 	float: left;
-	margin-left: 60px;
+	margin-left: 150px;
 	padding: 10px;
 	white-space: nowrap;
 	background: rgba(221, 221, 221, .075) !important;
@@ -633,7 +638,7 @@ a.alert-bar__link:hover {
 	position: absolute;
 	top: 180px;
 	left: 0px;
-	width: 1000px;
+	width: 1200px;
 	height: 30px;
 	padding: 10px;
 	background: rgba(221, 221, 221, .075) !important;
@@ -796,7 +801,7 @@ textarea[name="description"] {
 	border-bottom-right-radius: 5px;
 	position: absolute;
 	margin-top: 31px;
-	width: 1000px;
+	width: 1200px;
 	height: 47px;
 	padding: 10px;
 	z-index: 1;
@@ -826,7 +831,7 @@ textarea[name="description"] {
 
 /* TABLES */
 #content {
-	width: 1000px;
+	width: 1200px;
 }
 #content {
 	margin: 0 auto !important;
@@ -2654,7 +2659,7 @@ position: relative;
 	padding-left: 10px;
 	padding-top: 2px;
 	margin-bottom: 16px;
-	width: 1000px;
+	width: 1200px;
 	transition-delay: 1000ms;
 	cursor: pointer;
 	border-radius: 5px;
@@ -3274,9 +3279,9 @@ text-align: left;
 }
 #content #main_rules_header a:hover span.cat_details {
 	font-size: 11px;
-	max-width: 1000px;
+	max-width: 1200px;
 	max-height: 20px;
-	min-width: 1000px;
+	min-width: 1200px;
 	min-height: 20px;
 	background-color: rgba(0,0,0,0.2);
 	margin-left: -500px;
@@ -3349,9 +3354,9 @@ text-align: left;
 }
 #content #main_faq_header a:hover span.cat_details {
 	font-size: 11px;
-	max-width: 1000px;
+	max-width: 1200px;
 	max-height: 20px;
-	min-width: 1000px;
+	min-width: 1200px;
 	min-height: 20px;
 	background-color: rgba(0,0,0,0.2);
 	margin-left: -500px;
@@ -3761,7 +3766,7 @@ color: #A33A3A!important;
 	border-bottom-right-radius: 5px;
 	position: absolute;
 	margin-top: 31px;
-	width: 1000px;
+	width: 1200px;
 	height: 47px;
 	/*padding: 10px;*/
 	z-index: 1;
