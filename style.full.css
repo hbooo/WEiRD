@@ -4753,3 +4753,5 @@ display: inline-block;
 #backTopButton{
 	background: url(./img/up.png) no-repeat!important;
 }
+
+.hashes {display:none;}
